@@ -1,4 +1,4 @@
-# MoveNet Pose Detection and Alert System
+# ElderSafe - Human Pose Detection System
 
 This project uses the MoveNet Thunder model to detect human poses in real-time via a webcam. It identifies poses such as standing, running, and falling, and sends an SMS alert using the ClickSend API when a fall is detected.
 
